@@ -45,3 +45,6 @@ luac.out
 #.ignore files
 .lovelyignore
 .gitignore
+
+# don't touch the json specifically in this temp branch
+data.json
